@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @miland24
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... Data Science Projects 
+- 👀 I’m interested in ... Analytics
+- 🌱 I’m currently learning ... Javascript 
 - 📫 How to reach me ... matheus.miland@gmail.com
 
 <!---
